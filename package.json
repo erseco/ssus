@@ -1,0 +1,29 @@
+{
+  "name": "ssus",
+  "version": "1.0.0",
+  "description": "Simple SCU UGR Scrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesusgn90/ssus.git"
+  },
+  "keywords": [
+    "es7",
+    "es6",
+    "nodejs"
+  ],
+  "author": "Jesús Ángel González Novez",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/jesusgn90/ssus/issues"
+  },
+  "homepage": "https://github.com/jesusgn90/ssus#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "fs": "0.0.1-security",
+    "q": "^1.5.1"
+  }
+}
