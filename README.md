@@ -1,4 +1,10 @@
 # ssus
+
+[![https://travis-ci.org/jesusgn90/ssus.svg?branch=master](https://travis-ci.org/jesusgn90/ssus.svg?branch=master)](https://travis-ci.org/jesusgn90/ssus.svg?branch=master)
+[![https://img.shields.io/npm/v/ssus.svg](https://img.shields.io/npm/v/ssus.svg)](https://www.npmjs.com/package/ssus)
+[![https://img.shields.io/npm/dm/ssus.svg](https://img.shields.io/npm/dm/ssus.svg)](https://www.npmjs.com/package/ssus)
+
+
 Simple SCU UGR Scrapper 
 
 ## How to use?
