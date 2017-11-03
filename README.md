@@ -22,7 +22,7 @@ Use it as follow:
 
 Here is an example of response. The json element resolved in the promise is as follow:
 
-```json
+```js
 { lunes: 
    [ 'LUNES,  30  DE  OCTUBRE  DE  2017',
      'Alérgenos',
