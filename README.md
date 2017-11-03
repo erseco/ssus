@@ -106,3 +106,17 @@ Here is an example of response. The json element resolved in the promise is as f
      'Sulfitos' ],
   def: [] }
 ```
+
+## How to use the json?
+
+```js
+    for(let day in json){
+        if(json[day][1] === 'CERRADO'){
+            // IS CLOSED
+        } else {
+            for(let element of json[day]){
+                // DO SOMETHING
+            }
+        }
+    }
+```
