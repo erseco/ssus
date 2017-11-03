@@ -12,7 +12,7 @@ Install it from NPM as follow:
 Use it as follow:
 
 ```js
-    const ssus = require('../index');
+    const ssus = require('ssus');
     ssus()
         .then((json) => console.log(json))
         .catch((err) => console.error(err));
